@@ -1,0 +1,15 @@
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\WebSiteBlocker\WebServiceClient\bin\Debug\WebServiceClient.exe.config
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\WebSiteBlocker\WebServiceClient\bin\Debug\WebServiceClient.exe
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\WebSiteBlocker\WebServiceClient\bin\Debug\WebServiceClient.pdb
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\WebSiteBlocker\WebServiceClient\bin\Debug\HelloWorld.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\WebSiteBlocker\WebServiceClient\obj\Debug\WebServiceClient.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\WebSiteBlocker\WebServiceClient\obj\Debug\MainWindow.g.cs
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\WebSiteBlocker\WebServiceClient\obj\Debug\App.g.cs
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\WebSiteBlocker\WebServiceClient\obj\Debug\WebServiceClient_MarkupCompile.cache
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\WebSiteBlocker\WebServiceClient\obj\Debug\WebServiceClient_MarkupCompile.lref
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\WebSiteBlocker\WebServiceClient\obj\Debug\MainWindow.baml
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\WebSiteBlocker\WebServiceClient\obj\Debug\WebServiceClient.g.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\WebSiteBlocker\WebServiceClient\obj\Debug\WebServiceClient.Properties.Resources.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\WebSiteBlocker\WebServiceClient\obj\Debug\WebServiceClient.csproj.GenerateResource.Cache
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\WebSiteBlocker\WebServiceClient\obj\Debug\WebServiceClient.exe
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\WebSiteBlocker\WebServiceClient\obj\Debug\WebServiceClient.pdb
